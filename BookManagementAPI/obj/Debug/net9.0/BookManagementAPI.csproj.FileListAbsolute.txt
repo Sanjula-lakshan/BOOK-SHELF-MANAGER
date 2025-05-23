@@ -1,0 +1,146 @@
+E:\Projects\BookManagementAPI\bin\Debug\net9.0\appsettings.Development.json
+E:\Projects\BookManagementAPI\bin\Debug\net9.0\appsettings.json
+E:\Projects\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.staticwebassets.endpoints.json
+E:\Projects\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.exe
+E:\Projects\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.deps.json
+E:\Projects\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.runtimeconfig.json
+E:\Projects\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.dll
+E:\Projects\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.pdb
+E:\Projects\BookManagementAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Projects\BookManagementAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\Projects\BookManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\BookManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\BookManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.csproj.AssemblyReference.cache
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.AssemblyInfoInputs.cache
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.AssemblyInfo.cs
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.csproj.CoreCompileInputs.cache
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\scopedcss\bundle\BookManagementAPI.styles.css
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\staticwebassets.build.json
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\staticwebassets.development.json
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.BookManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.BookManagementAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.BookManagementAPI.props
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BookManagementAPI.props
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BookManagementAPI.props
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\staticwebassets.pack.json
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\BookMana.527B3002.Up2Date
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.dll
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\refint\BookManagementAPI.dll
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.pdb
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.genruntimeconfig.cache
+E:\Projects\BookManagementAPI\obj\Debug\net9.0\ref\BookManagementAPI.dll
+E:\My Projects\New folder\BookManagementAPI\bin\Debug\net9.0\appsettings.Development.json
+E:\My Projects\New folder\BookManagementAPI\bin\Debug\net9.0\appsettings.json
+E:\My Projects\New folder\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.staticwebassets.endpoints.json
+E:\My Projects\New folder\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.exe
+E:\My Projects\New folder\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.deps.json
+E:\My Projects\New folder\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.runtimeconfig.json
+E:\My Projects\New folder\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.dll
+E:\My Projects\New folder\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.pdb
+E:\My Projects\New folder\BookManagementAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\My Projects\New folder\BookManagementAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\My Projects\New folder\BookManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\My Projects\New folder\BookManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\My Projects\New folder\BookManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.csproj.AssemblyReference.cache
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.AssemblyInfoInputs.cache
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.AssemblyInfo.cs
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.csproj.CoreCompileInputs.cache
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\scopedcss\bundle\BookManagementAPI.styles.css
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\staticwebassets.build.json
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\staticwebassets.development.json
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.BookManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.BookManagementAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.BookManagementAPI.props
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BookManagementAPI.props
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BookManagementAPI.props
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\staticwebassets.pack.json
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\BookMana.527B3002.Up2Date
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.dll
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\refint\BookManagementAPI.dll
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.pdb
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.genruntimeconfig.cache
+E:\My Projects\New folder\BookManagementAPI\obj\Debug\net9.0\ref\BookManagementAPI.dll
+E:\enhanzer backend\BookManagementAPI\bin\Debug\net9.0\appsettings.Development.json
+E:\enhanzer backend\BookManagementAPI\bin\Debug\net9.0\appsettings.json
+E:\enhanzer backend\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.staticwebassets.endpoints.json
+E:\enhanzer backend\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.exe
+E:\enhanzer backend\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.deps.json
+E:\enhanzer backend\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.runtimeconfig.json
+E:\enhanzer backend\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.dll
+E:\enhanzer backend\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.pdb
+E:\enhanzer backend\BookManagementAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\enhanzer backend\BookManagementAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\enhanzer backend\BookManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\enhanzer backend\BookManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\enhanzer backend\BookManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.csproj.AssemblyReference.cache
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.AssemblyInfoInputs.cache
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.AssemblyInfo.cs
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.csproj.CoreCompileInputs.cache
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\scopedcss\bundle\BookManagementAPI.styles.css
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\staticwebassets.build.json
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\staticwebassets.development.json
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.BookManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.BookManagementAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.BookManagementAPI.props
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BookManagementAPI.props
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BookManagementAPI.props
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\staticwebassets.pack.json
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\BookMana.527B3002.Up2Date
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.dll
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\refint\BookManagementAPI.dll
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.pdb
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.genruntimeconfig.cache
+E:\enhanzer backend\BookManagementAPI\obj\Debug\net9.0\ref\BookManagementAPI.dll
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\bin\Debug\net9.0\appsettings.Development.json
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\bin\Debug\net9.0\appsettings.json
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.staticwebassets.endpoints.json
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.exe
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.deps.json
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.runtimeconfig.json
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.dll
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\bin\Debug\net9.0\BookManagementAPI.pdb
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.csproj.AssemblyReference.cache
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.AssemblyInfoInputs.cache
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.AssemblyInfo.cs
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.csproj.CoreCompileInputs.cache
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.sourcelink.json
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\scopedcss\bundle\BookManagementAPI.styles.css
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\staticwebassets.build.json
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\staticwebassets.development.json
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.BookManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.BookManagementAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.BookManagementAPI.props
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BookManagementAPI.props
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BookManagementAPI.props
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\staticwebassets.pack.json
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\BookMana.527B3002.Up2Date
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.dll
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\refint\BookManagementAPI.dll
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.pdb
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\BookManagementAPI.genruntimeconfig.cache
+E:\Enhanzer\Enhanzer-Project\Enhance intern project\BookManagementAPI\obj\Debug\net9.0\ref\BookManagementAPI.dll
